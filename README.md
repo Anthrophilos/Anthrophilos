@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anthrophilos
+- 👋 Hi, I’m @Milan
 - 👀 I’m interested in ... Quality Assurance
 - 🌱 I’m currently learning ... all about it
 - 💞️ I’m looking to collaborate on ... QA projects 
